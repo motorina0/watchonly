@@ -1,0 +1,2 @@
+# watchonly
+LNbits watchonly extension
